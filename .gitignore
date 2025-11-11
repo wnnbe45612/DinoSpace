@@ -1,0 +1,41 @@
+# ARCHIVOS A IGNORAR
+
+# Node / Angular
+node_modules/
+dist/
+.tmp/
+.vscode/
+.env
+/.angular
+
+# Angular SSR/Build
+.cache/
+output/
+server/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE / Editor
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Laravel / PHP 
+vendor/
+.env
+/storage/
+.phpunit.result.cache
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+dist/
+tmp/
+environment.ts
+.angular/cache/
+.vscode/
